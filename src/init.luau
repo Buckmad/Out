@@ -1,7 +1,7 @@
 --[[
 
-		@buckmad/Out
-		- A simple module for logging and debugging.
+		@comicallynathan/Out
+		- A simple module for logging and debugging made by and for @buckmad.
 		
 		Usage:
 			local Out = require("@game/ReplicatedStorage/Shared/Modules/Out")
